@@ -32,7 +32,7 @@ ALLOWED_HOSTS = [
 
 CSRF_TRUSTED_ORIGINS = [
     "https://djangomart-pjt-1.onrender.com",
-    "http://djangomart-pjt-1.onrender.com",
+    # "http://djangomart-pjt-1.onrender.com",
 ]
 DEBUG = False
 
