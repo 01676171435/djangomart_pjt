@@ -28,11 +28,12 @@ SECRET_KEY = 'django-insecure-1c^7+654ebr!bt$0^j(m7q2$+h^pbmj(jch-=_=4nm)ebfw!!8
 
 ALLOWED_HOSTS = [
     "djangomart-pjt.onrender.com",
+     ".onrender.com",
     ]
 
 CSRF_TRUSTED_ORIGINS = [
     "https://djangomart-pjt.onrender.com",
-     "http://djangomart-pjt.onrender.com",
+    
 ]
 DEBUG = False
 
